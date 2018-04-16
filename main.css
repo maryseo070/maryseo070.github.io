@@ -151,18 +151,21 @@ header {
 .img-responsive{
   height: 350px;
 }
+.image-holder:hover .img-responsive{
+  opacity: 0.5;
+}
+
 .image-holder:hover [class*="image-caption"] {
   opacity: 1;
 }
 
-.image-holder:hover {
-  opacity: 0.5;
+a{
+  color:#FF7F50;
 }
 
 
-
 .image-caption1{
-  color:#FF4500;
+  color:#FF7F50;
   position: absolute;
   top: 40%;
   left: 50%;
