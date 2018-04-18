@@ -220,3 +220,7 @@ footer{
   justify-content: space-between;
   padding-top: 20px;
 }
+
+.skills {
+	font-weight: bold;
+}
