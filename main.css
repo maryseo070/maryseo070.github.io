@@ -181,6 +181,7 @@ a{
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 15px;
+	color: black;
 }
 
 
@@ -190,6 +191,7 @@ a{
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 15px;
+	color: black;
 }
 
 .personal-pitch{
