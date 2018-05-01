@@ -226,3 +226,8 @@ footer{
 .skills {
 	font-weight: bold;
 }
+
+.project-header{
+	display: block;
+	margin: auto;
+}
