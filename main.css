@@ -295,7 +295,21 @@ footer{
 	}
 	.skills{
 		width: 100%
-		
+	}
+	.container{
+		display: grid;
+		width: 100%;
+		grid-template-columns: 60% 40%;
+	}
+
+	.section {
+    display: grid;
+    grid-template-columns: 100%;
+    padding: 0 2% 0 2%;
+	}
+	.hero-content{
+		width: 100%
+	}
 	}
 
 }
