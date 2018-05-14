@@ -275,6 +275,15 @@ footer{
 		color: black;
 	}
 
+	.image-caption4{
+	  position: absolute;
+	  top: 40%;
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	  font-size: 12px;
+		color: black;
+	}
+
 
 	.image-caption3{
 	  position: absolute;
