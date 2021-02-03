@@ -85,6 +85,14 @@ header {
 	padding-top: 10%;
 }
 
+.header-title{
+  font-size: 30px;
+  display: flex;
+  margin-left: 10%;
+  margin-bottom: 24px;
+}
+
+
 .hero-content {
   width: 70%;
   display: flex;
@@ -153,6 +161,7 @@ header {
   font-weight: bold;
   opacity: 0;
   font-size: 18px;
+  background-color: white;
 }
 
 .image-holder{
@@ -180,7 +189,7 @@ a{
 
 
 .image-caption1{
-  color:#FF7F50;
+  color: orange;
   position: absolute;
   top: 40%;
   left: 50%;
@@ -340,8 +349,6 @@ p {
 	}
 	.snippet{
 		font-size: 15px;
-	}
-
-	}
+  }
 
 }
